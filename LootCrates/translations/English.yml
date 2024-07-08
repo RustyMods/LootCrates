@@ -1,0 +1,9 @@
+## 
+piece_input_code: "Input code"
+msg_codeused: "Code already used"
+piece_lootcrate: 'Loot Crate'
+text_code: "Code"
+item_lootcrate_codebreaker: 'Code Breaker'
+item_lootcrate_codebreaker_desc: 'Clears saved used codes from player save file'
+msg_invalidcode: 'Invalid code'
+msg_unlockedlootcrate: 'Unlocked'
